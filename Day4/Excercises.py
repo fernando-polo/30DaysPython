@@ -104,5 +104,3 @@ print(company2.startswith("Coding"))
 # Does 'Coding For All' end with a substring coding?
 print(company2.endswith("Coding"))
 
-
-# '   Coding For All      '  , remove the left and right trailing spaces in the given string.
