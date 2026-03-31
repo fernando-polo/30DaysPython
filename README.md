@@ -1,4 +1,4 @@
-# 30DaysPython
+# 30DaysPython 🖥️
 
 Personal progress through the 30 Days of Python challenge. Covers Python fundamentals, data structures, functional programming, OOP, and more — one day at a time.
 
